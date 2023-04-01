@@ -32,12 +32,13 @@
 }
 
 .banner-heading {
+    color: #fff;
     font-family: "Roboto";
     font-size: 45px;
     font-weight: 300;
     letter-spacing: 0.15rem;
     text-transform: uppercase;
-    text-shadow: -4px 4px #ffffff,
+    text-shadow: -4px 4px #ef3550,
     -8px 8px #f48fb1,
     -12px 12px #7e57c2;
 }
